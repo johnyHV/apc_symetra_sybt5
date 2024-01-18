@@ -1,5 +1,7 @@
 # Modification EEPROM data for APC SYMETRA SYBT5 battery pack
 
+This is manual how to hack APC Symmetra SYBT5 battery module
+
 ## Script 
 Here is a simple python script sysbt5_calculator.py for modification of EEPROM data in the battery pack SYBT5. I used python 3.9
 
